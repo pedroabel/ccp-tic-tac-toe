@@ -1,0 +1,3 @@
+﻿  Jogo da velha.cpp
+E:\Programação\Projetos\C++\Jogodavelha\Jogo da velha\Jogo da velha.cpp(111): warning C4715: 'adicionaMarca': not all control paths return a value
+  Jogo da velha.vcxproj -> E:\Programação\Projetos\C++\Jogodavelha\x64\Debug\Jogo da velha.exe
